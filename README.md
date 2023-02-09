@@ -5,8 +5,8 @@ Script to uninstall Zoom from Jamf. Also, includes the installomator project, wh
 **Table of Contents**
 
 - [About](#about)
-- [Zoom Installer](#zoom installer)
-- [Zoom Uninstaller](#zoom uninstaller)
+- [Zoom Uninstaller](#zoom-uninstaller)
+- [Zoom Installer](#zoom-installer)
 - [Contributing](#contributing)
 
 ## About
